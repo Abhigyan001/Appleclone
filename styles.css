@@ -44,16 +44,17 @@ a:hover {
   table-layout: fixed;
 }
 
-.navbar li input {
+.navbar input {
   height: 70%;
   width: 100%;
   background: transparent;
+  border-radius: 4px;
   text-decoration: none;
   color: white;
   font-size: 0.9rem;
   position: relative;
   z-index: 1;
-  border-radius: 3px;
+  border-radius: 6px;
 }
 
 .text {
@@ -70,6 +71,11 @@ a:hover {
   position: absolute;
   color: white;
   top: 30%;
+}
+
+.search {
+  padding-top: 1.5%;
+  width: 100%;
 }
 
 .icons {

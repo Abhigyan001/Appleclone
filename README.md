@@ -2,7 +2,7 @@
 
 Second CSS project of Lidya Ghebreigziabher and Abhigyan Mahanta
 
-<img src="images/projectpage.JPG" alt="Appleclone">
+<img src="images/projectpage.jpg" alt="Appleclone">
 
 <h1>Additional description about the project and its features.</h1>
 
@@ -41,7 +41,5 @@ Github: @Abhigyan001 Linkedin: https://www.linkedin.com/in/abhigyan-mahanta-b497
 Feel free to check the issues page.
 
 Show your support Give a ⭐️ if you like this project!
-
-Acknowledgments Hat tip to anyone whose code was used Inspiration etc
 
 📝 License This project is a collaboration project of microverse students. All rights are reserved for Lidya and Abhigyan.

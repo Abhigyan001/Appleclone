@@ -2,7 +2,7 @@
 
 Second CSS project of Lidya Ghebreigziabher and Abhigyan Mahanta
 
-<img src="images/projectpage.jpg" alt="Appleclone">
+<img src="images/projectpage.JPG" alt="Appleclone">
 
 <h1>Additional description about the project and its features.</h1>
 
